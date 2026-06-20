@@ -1,3 +1,4 @@
+package Module_2.Data_Structures;
 import java.util.Arrays;
 
 class SearchableProduct implements Comparable<SearchableProduct> {

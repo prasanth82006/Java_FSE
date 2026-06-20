@@ -1,5 +1,5 @@
+package Module_2.Data_Structures;
 import java.util.HashMap;
-
 class Product {
     private int productId;
     private String productName;

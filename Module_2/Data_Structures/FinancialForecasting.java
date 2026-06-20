@@ -1,3 +1,5 @@
+package Module_2.Data_Structures;
+
 public class FinancialForecasting {
 
     public static double calculateFutureValue(double currentValue, double growthRate, int years) {
