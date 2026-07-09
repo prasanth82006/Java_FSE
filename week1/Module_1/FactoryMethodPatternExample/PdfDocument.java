@@ -1,4 +1,4 @@
-package Module_1.FactoryMethodPatternExample;
+package week1.Module_1.FactoryMethodPatternExample;
 
 public class PdfDocument implements Document {
     public void open() {

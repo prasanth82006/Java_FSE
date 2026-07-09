@@ -1,4 +1,4 @@
-package Module_4.Sl4j.src.main.resources;
+package week2.Module_4.Sl4j.src.main.resources;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package Module_4.Sl4j.src.main.java.org.example;
+package week2.Module_4.Sl4j.src.main.java.org.example;
 public class Main {
     static void main() {
         IO.println(String.format("Hello and welcome!"));

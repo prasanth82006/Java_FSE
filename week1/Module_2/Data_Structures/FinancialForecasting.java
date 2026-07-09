@@ -1,4 +1,4 @@
-package Module_2.Data_Structures;
+package week1.Module_2.Data_Structures;
 
 public class FinancialForecasting {
 

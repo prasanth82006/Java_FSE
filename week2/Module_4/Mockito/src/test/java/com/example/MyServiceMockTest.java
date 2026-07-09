@@ -1,4 +1,4 @@
-package Module_4.Mockito.src.test.java.com.example;
+package week2.Module_4.Mockito.src.test.java.com.example;
 
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

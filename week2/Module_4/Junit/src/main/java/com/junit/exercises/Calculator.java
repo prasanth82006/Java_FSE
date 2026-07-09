@@ -1,4 +1,4 @@
-package com.junit.exercises;
+package week2.Module_4.Junit.src.main.java.com.junit.exercises;
 
 import java.util.ArrayList;
 import java.util.List;

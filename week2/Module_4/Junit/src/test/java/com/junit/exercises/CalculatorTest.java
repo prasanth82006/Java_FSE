@@ -1,4 +1,4 @@
-package com.junit.exercises;
+package week2.Module_4.Junit.src.test.java.com.junit.exercises;
 
 import org.junit.After;
 import org.junit.Before;

@@ -1,4 +1,4 @@
-package Module_1.SingletonPatternExample;
+package week1.Module_1.SingletonPatternExample;
 
 public class Logger {
     private static Logger instance;
